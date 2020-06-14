@@ -1,3 +1,3 @@
 # AndroidFundementals-Java-_Course
 
-Just my code as I follow the introduction to android at https://developer.android.com/courses/fundamentals-training/toc-v2
+Just my code as I follow the introduction to android at https://codelabs.developers.google.com/android-training/
