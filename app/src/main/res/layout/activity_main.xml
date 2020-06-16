@@ -11,10 +11,10 @@
         android:id="@+id/article_heading"
         android:background="@color/colorPrimary"
         android:textColor="@android:color/white"
-        android:padding="10dp"
+        android:padding="@dimen/padding_regular"
         android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
         android:textStyle="bold"
-        android:text="Article Title" />
+        android:text="@string/article_title" />
 
     <TextView
         android:layout_width="wrap_content"
