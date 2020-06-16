@@ -10,11 +10,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@color/colorPrimary"
-        android:textColor="@android:color/white"
         android:padding="@dimen/padding_regular"
+        android:text="@string/article_title"
         android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
-        android:textStyle="bold"
-        android:text="@string/article_title" />
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
 
     <TextView
         android:id="@+id/article_subheading"
@@ -22,8 +22,8 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/article_heading"
         android:padding="@dimen/padding_regular"
-        android:textAppearance="@android:style/TextAppearance.DeviceDefault"
-        android:text="@string/article_subtitle" />
+        android:text="@string/article_subtitle"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault" />
 
     <TextView
         android:id="@+id/article"
