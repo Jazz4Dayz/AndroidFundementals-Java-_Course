@@ -17,6 +17,7 @@
         android:textStyle="bold" />
 
     <ScrollView
+        android:id="@+id/scrollingView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/article_heading">
@@ -42,6 +43,13 @@
                 android:lineSpacingExtra="5sp"
                 android:padding="@dimen/padding_regular"
                 android:text="@string/article_text" />
+
+            <Button
+                android:id="@+id/button_to_top"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="toTop"
+                android:text="@string/back_to_top" />
         </LinearLayout>
     </ScrollView>
 
