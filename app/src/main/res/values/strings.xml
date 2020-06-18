@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Two Activities</string>
-    <string name="button_send">Send</string>
+    <string name="button_main">Send</string>
 </resources>
