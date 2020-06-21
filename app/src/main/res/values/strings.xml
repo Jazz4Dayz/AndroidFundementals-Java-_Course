@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">TwoActivities_V2_CodingChallenge</string>
+    <string name="conversation_1">Frank: yo, wuddup bro?!\n\n
+    Chris: BROOOOOOOOOOO, where them bitches at?!\n\n
+    Frank: I don\'t know, bro. You\'re the one with the hooks, lines, and sinkers!\n\n
+    Chris: Man, you gotta catch the fuck up.\n\n
+    Frank: Those are fighting words, bro! I\'m gonna have to beat you up for that one!\n\n
+    Chris: BRING! IT! OOOOOOOON, BRO!\n\n
+    Frank: Oh, it\'s coming. And when it does, you won\'t even know what hit you, bro!\n\n
+    Chris: You have no idea what kind of training I've been through since we\'ve last been together,
+    bro! You seriously do not want to start a fight with me!\n\n
+    Frank: I could say the same thing to you, my friend! I\'ll see you in the parking lot at 5
+    hundred hours! You better be there on time!\n\n
+    Chris: Prepare to get your ass handed to you, bro!</string>
+    <string name="conversation_2"></string>
+    <string name="conversation_3"></string>
 </resources>
