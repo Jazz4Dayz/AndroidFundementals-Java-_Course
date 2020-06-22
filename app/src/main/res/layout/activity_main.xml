@@ -22,6 +22,7 @@
         android:layout_width="135dp"
         android:layout_height="wrap_content"
         android:layout_marginBottom="10dp"
+        android:onClick="getConversation"
         android:text="@string/button_conversation1"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
@@ -30,6 +31,7 @@
         android:id="@+id/button_conversation_2"
         android:layout_width="136dp"
         android:layout_height="wrap_content"
+        android:onClick="getConversation"
         android:text="@string/button_conversation2"
         app:layout_constraintBaseline_toBaselineOf="@+id/button_conversation_1"
         app:layout_constraintStart_toEndOf="@+id/button_conversation_1" />
@@ -38,6 +40,7 @@
         android:id="@+id/button_conversation_3"
         android:layout_width="136dp"
         android:layout_height="wrap_content"
+        android:onClick="getConversation"
         android:text="@string/button_conversation3"
         app:layout_constraintBaseline_toBaselineOf="@+id/button_conversation_2"
         app:layout_constraintEnd_toEndOf="parent"
