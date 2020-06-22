@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">TwoActivities_V2_CodingChallenge</string>
+    <string name="text_selectOption">Please select the conversation you\'d like to read</string>
+    <string name="button_conversation1">convo 1</string>
+    <string name="button_conversation2">convo 2</string>
+    <string name="button_conversation3">convo 3</string>
     <string name="conversation_1">Frank: yo, wuddup bro?!\n\n
     Chris: BROOOOOOOOOOO, where them bitches at?!\n\n
     Frank: I don\'t know, bro. You\'re the one with the hooks, lines, and sinkers!\n\n
